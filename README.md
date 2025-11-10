@@ -135,5 +135,6 @@ Desarrollado por el equipo:
 - Esteban Mera
 	- @estebanmeraaranda-arch 
 - Juan Sebastian Moran
+	-juan2007moran00@gmail.com 
 - Maria Fernanda Munoz
 - Jhon Ricky Chito
